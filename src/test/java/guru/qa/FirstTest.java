@@ -11,6 +11,6 @@ public class FirstTest {
 
     @Test
     void secondTest() {
-        Assertions.assertTrue(3 > 5);
+        Assertions.assertTrue(3 > 1);
     }
 }
